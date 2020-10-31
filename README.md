@@ -6,6 +6,7 @@
 
 #### Run server locally(cmd):
 $ python manage.py runserver
+
 Then go to localhost:8000
 
 
