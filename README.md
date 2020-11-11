@@ -1,9 +1,9 @@
 ## SECTION 1 : PROJECT TITLE
 ## Movie Recommend System
 
-<img src="Home.jpg"
+<img src="System image/Home.jpg"
      style="float: left; margin-right: 0px;" />
-     <img src="Movie.jpg"
+     <img src="System image/Movie.jpg"
      style="float: left; margin-right: 0px;" />
      
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
@@ -30,7 +30,7 @@ We believe that this system has great commercial value. Movies are the most popu
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 <div align="center">
   <a href="https://www.youtube.com/watch?v=pJIyrnQgGe0&feature=youtu.be">
-    <img src="video.png" alt="Project Introduction Video">
+    <img src="System image/video.png" alt="Project Introduction Video">
   </a>
 </div>
 
