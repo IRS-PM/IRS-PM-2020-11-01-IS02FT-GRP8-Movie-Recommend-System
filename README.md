@@ -28,7 +28,11 @@ We believe that this system has great commercial value. Movies are the most popu
 
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![]](https://www.youtube.com/watch?v=pJIyrnQgGe0&feature=youtu.be "")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=pJIyrnQgGe0&feature=youtu.be">
+    <img src="video.png" alt="Project Introduction Video">
+  </a>
+</div>
 
 ## SECTION 5 : USER GUIDE
 ## Installation:
